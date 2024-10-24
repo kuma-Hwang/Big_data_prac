@@ -1,0 +1,2 @@
+--job_id가 IT_PROG라면 employee_id, first_name,last_name, slasry를 출력하되 salary가 9000이상이면 '상위급여', 6000과 8999사이이면 '중위급여'
+-- 그 외에는 '하위급여 출력'
